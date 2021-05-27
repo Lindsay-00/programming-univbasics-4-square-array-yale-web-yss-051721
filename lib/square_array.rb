@@ -5,5 +5,5 @@ def square_array(array)
     array
   end
 end
-
-p square_array (array)
+numbers = [1,2,3]
+p square_array (numbers)
