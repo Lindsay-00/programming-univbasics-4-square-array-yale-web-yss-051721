@@ -3,7 +3,7 @@ def square_array(array)
    array[i] = array [i] ** 2 
   }
   end
-  array
+  p array
 end
 numbers = [1,2,3]
-p square_array (numbers)
+square_array (numbers)
