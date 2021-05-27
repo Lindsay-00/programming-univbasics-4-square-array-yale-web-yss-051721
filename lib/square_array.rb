@@ -1,5 +1,7 @@
 def square_array(array)
-  while 
+  array.length.times{|i|
+    
+  }
     
   end
 end
